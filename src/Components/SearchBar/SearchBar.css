@@ -1,0 +1,39 @@
+/* SearchBar.module.css */
+.SearchBar {
+    margin: 20px auto;
+    width: 50%;
+  }
+  
+  .SearchBar input {
+    width: 70%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    
+  }
+  
+  .SearchButton {
+    width: 25%;
+    padding: 10px;
+    background-color: #1DB954;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 30px;
+  }
+  
+  .SearchButton:hover {
+    background-color: #1ed760;
+  }
+
+  #input1 {
+    padding: 5px;
+  }
+
+  #button1 {
+    margin-left: 20px;
+  }
+  

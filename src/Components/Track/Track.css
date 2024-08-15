@@ -1,0 +1,38 @@
+/* Track.module.css */
+.Track {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .Track-information {
+    flex-grow: 1;
+  }
+  
+  .Track h3 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .Track p {
+    margin: 5px 0 0;
+    color: #777;
+    font-size: 14px;
+  }
+  
+  .Track-action {
+    background-color: transparent;
+    border: none;
+    color: #1DB954;
+    cursor: pointer;
+    font-size: 24px;
+  }
+  
+  .Track-action:hover {
+    color: #1ed760;
+  }
+  
